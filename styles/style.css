@@ -204,11 +204,11 @@ body {
     border-radius: 16px;
     border: 1px solid #353535;
 }
-/*
+
 .products-item-image {
-    height: 250px;
+    height: auto;
 }
-*/
+
 .products-item-image img {
     max-width: 100%;
 }
@@ -317,7 +317,7 @@ button.product-button span:first-child {
     color: white;
 }
 
-.order-form-input .button {
+.order-form-inputs .button {
     width: 344px;
     height: 62px;
 }
